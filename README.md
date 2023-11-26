@@ -1,4 +1,4 @@
-# saeegadekar14.github.io
-Responsive E-Commerce Website
+# SiddharthBro.github.io
+Responsive E-Commerce Website clothing store
 Deployed:
-https://saeegadekar14.github.io
+ https://siddharthbro.github.io/Stylesphere1-website/
